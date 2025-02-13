@@ -85,7 +85,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Lieke"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -108,7 +108,7 @@ questions: {
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "Will you watch Apple Cider Vinegar with me this Valentines...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
@@ -130,11 +130,11 @@ celebration: {
 
 // Website Colors
 colors: {
-    backgroundStart: "#ffafbd",      // Background gradient start
-    backgroundEnd: "#ffc3a0",        // Background gradient end
-    buttonBackground: "#ff6b6b",     // Button color
-    buttonHover: "#ff8787",          // Button hover color
-    textColor: "#ff4757"            // Text color
+    backgroundStart: "#CBC3E3",      // Background gradient start
+    backgroundEnd: "#a28fdb",        // Background gradient end
+    buttonBackground: "#98c1ed",     // Button color
+    buttonHover: "#6c9acc",          // Button hover color
+    textColor: "#fafafa"            // Text color
 }
 
 // Animation Settings
